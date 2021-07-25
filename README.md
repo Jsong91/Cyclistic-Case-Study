@@ -12,8 +12,8 @@ To answer key business questions, I followed the six steps of the data analysis 
 - Data Visualization using Tableau Public.
 
 For more details check out my 
-- portfolio website at:
-- Tableau at:
-- Medium at:
+- Portfolio website at: **https://jsong91.github.io/Portfolio-Website/**
+- Tableau at: **https://public.tableau.com/app/profile/song.jiahe/viz/GoogleDataAnalyticsProfessionalCapstone-CyclisticCaseStudy**
+- Medium at: **https://medium.com/p/498e4c1e4d52/edit**
 
 
