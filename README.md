@@ -16,7 +16,8 @@ Raw Dataset Available from: **<a href="https://divvy-tripdata.s3.amazonaws.com/i
 
 For more details on this case study, check out my 
 - Tableau at: **<a href="https://public.tableau.com/app/profile/song.jiahe/viz/GoogleDataAnalyticsProfessionalCapstone-CyclisticCaseStudy/Casual_GeoData" rel="nofollow">Cyclistic Case Study Data Visualization</a>**
-- Medium at: **https://medium.com/p/498e4c1e4d52/edit**
+- Medium at: **<a href="https://jsong91.medium.com/google-data-analytics-professional-certificate-capstone-project-498e4c1e4d52" rel="nofollow">Steps for Cyclistic Bike Share Data Analysis</a>**
+
 
 For other projects, check out my portfolio project at
 - Projects Portfolio: **<a href="https://jsong91.github.io/Portfolio-Website/" rel="nofollow">Jiahe's Data Portfolio</a>**
