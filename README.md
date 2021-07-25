@@ -8,7 +8,7 @@ To answer key business questions, I followed the six steps of the data analysis 
 
 - Detailed documentation of SQL code is available in GitHub.
 - Initial analysis of datasets provided by Cyclistic using Microsoft Excel.
-- Data cleaning, validation and exploration using Microsoft SQL.
+- Data cleaning, manipulation and exploration using Microsoft SQL.
 - Data Visualization using Tableau Public.
 
 For more details check out my 
